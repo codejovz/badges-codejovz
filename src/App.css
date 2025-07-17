@@ -1,0 +1,138 @@
+/* CSS RESET June 2024 ,@MiduDev*/
+* { margin: 0; padding: 0; }
+*, *::before, *::after { box-sizing: border-box; }
+body { min-height: 100dvh; }
+input, button, textarea, select { font: inherit; }
+p { text-wrap: pretty; }
+p{font-family: Helvetica;}
+h1, h2, h3, h4, h5, h6 { text-wrap: balance; }
+img, video, svg { height: auto; max-width: 100%; }
+
+:root {
+  --bard-color-brand-text-gradient-stop-1: #C0C0C0;
+  --bard-color-brand-text-gradient-stop-2: #B1B1B1;
+  --bard-color-brand-text-gradient-stop-3: #A2A2A2;
+  --gem-sys-color--surface: #CFCFCF;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #2c2c2c;
+    overscroll-behavior: none;
+}
+
+.centro {
+    display: flex;
+    flex-direction: row;
+    height: 100dvh;
+}
+
+.faq {
+    flex: 1;
+    width: 100%;
+    overflow-y: scroll;
+    flex-direction: column;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 140px;
+    height: 100dvh;
+    background-color: rgb(255, 255, 255);
+}
+
+nav > ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.landing {
+    height: 100%;
+    flex: 1;
+    overflow-y: scroll;
+}
+
+.faq {
+    flex: 1;
+}
+
+.welcome {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: calc(100dvh - 60px);
+    background: linear-gradient(74deg,var(--bard-color-brand-text-gradient-stop-1) 0,var(--bard-color-brand-text-gradient-stop-2) 9%,var(--bard-color-brand-text-gradient-stop-3) 20%,var(--bard-color-brand-text-gradient-stop-3) 24%,var(--bard-color-brand-text-gradient-stop-2) 35%,var(--bard-color-brand-text-gradient-stop-1) 44%,var(--bard-color-brand-text-gradient-stop-2) 50%,var(--bard-color-brand-text-gradient-stop-3) 56%,var(--gem-sys-color--surface) 75%,var(--gem-sys-color--surface) 100%);
+    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+}
+
+#webLogo {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.githubLink {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.badge-gallery > img{
+    margin: 20px;
+}
+
+figcaption {
+    margin-left:10px;
+}
+
+
+.faq > h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+article > section {
+    color: white;
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+
+article > section > h2 {
+    margin-bottom: 10px;
+    margin-inline: 10px;
+}
+
+article > section > p {
+    margin-inline: 10px;
+}
+
+.sidebarList{
+    list-style: none;
+}
+
+.specialThanksList {
+    list-style: disc;
+    color: red;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.centro > h1 {
+    
+}

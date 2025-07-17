@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="28">
+ 
+  <rect width="50%" height="100%" fill="#FFF" stroke="none" stroke-width="2"/>
+  <rect width="50%" height="100%" fill="#005FA9" stroke="none" stroke-width="2" x = "50%"/>
+  <rect width="100%" height="100%" fill="none" stroke="none" stroke-width="2"/>
+
+  <text x="54" y="15"
+        fill="#FFF"
+        font-family="Verdana"
+        font-size="12"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-weight="bold">
+    10
+  </text>
+          <image x="6" y="2" width="25" height="25" 
+                href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIzLjAuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxpdmVsbG9fMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDgzMy4zIDUwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgODMzLjMgNTAwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KCTxnPgoJCTxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iMTY2LjcsMjUwIDQxNi43LDEwMCA2NjYuNywyNTAgNDE2LjcsNDAwIAkiLz4KCQk8cGF0aCBmaWxsPSIjRTgxMTJEIiBkPSJNMTY2LjcsMjUwbDI1MC0xNTBsMjUwLDE1MGwtMjUwLDE1MEwxNjYuNywyNTB6IE00MTYuNywwTDAsMjUwbDQxNi43LDI1MGw0MTYuNy0yNTBMNDE2LjcsMHoiLz4KCQk8cmVjdCB4PSIyMTguOCIgeT0iMTcxLjkiIGZpbGw9IiMwMDM4QTgiIHdpZHRoPSIzOTUuOCIgaGVpZ2h0PSIxNTYuMyIvPgoJPC9nPgo8L3N2Zz4KPCEtLQpMb2dvIG9idGFpbmVkIGZyb20KaHR0cHM6Ly9lcy5tLndpa2lwZWRpYS5vcmcvd2lraS9BcmNoaXZvOk1ldHJvTWFkcmlkTG9nb1NpbXBsaWZpZWQuc3ZnCi0tPgoK"/>
+
+</svg>
+<!--https://upload.wikimedia.org/wikipedia/commons/c/c2/MadridMetro-BusUrbano.svg-->

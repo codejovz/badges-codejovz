@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="28">
+  <rect width="70" height="28" fill="#0079BC"/>
+  <text x="50" y="16"
+        fill="#fff"
+        font-family="Verdana"
+        font-size="12"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-weight="bold">
+    10
+  </text>
+          <image x="9" y="7" width="16" height="16" 
+                href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cGF0aCBmaWxsPSIjMDA3OUJDIiBkPSJNMCAuNGgxMDBWMTAwSDB6Ii8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiNGRkYiIGQ9Ik01MCA5LjNjLTI4Ljk0IDAtMzAuOSAxMi45My0zMC45IDEyLjkzbC0yLjgxIDI3Ljg1djMxLjI4aDUuNnY1LjlzLjMyIDQuMjYgNC43NSA0LjI2YzQuNDQgMCA1LjExLTQuMjYgNS4xMS00LjI2di01LjloMzYuNXY1LjlzLjY1IDQuMjYgNS4xIDQuMjZjNC40NCAwIDQuNzYtNC4yNiA0Ljc2LTQuMjZ2LTUuOWg1LjZWNTAuMDhsLTIuOC0yNy44NVM3OC45NiA5LjMgNTAuMDIgOS4zTTMwLjkyIDY1LjQ4YTQuOTMgNC45MyAwIDAgMS05Ljg2IDBjMC0yLjY5IDIuMjMtNC45MSA0Ljk0LTQuOTEgMi43IDAgNC45MiAyLjIyIDQuOTIgNC45bTQ4LjAzIDBhNC45NCA0Ljk0IDAgMCAxLTkuODggMCA0Ljk1IDQuOTUgMCAwIDEgOS44OCAwTTUwIDI0LjA0SDMwLjU5Yy03Ljg5IDAtNy4yMyA0LjQyLTcuMjMgNC40MnMtMS4zIDEwLjUtMS42NCAxNi4wNmMtLjMzIDUuMTUgNC4yOCA0LjQyIDQuMjggNC40Mmg0OHM0LjUzLjczIDQuMjctNC40MmMtLjI2LTUuNTYtMS42NC0xNi4wNi0xLjY0LTE2LjA2cy42Ni00LjQyLTcuMjMtNC40Mkg1MHptMC04LjUxSDM1LjdzLTIuMTYuMTYtMi4xNiAyLjI5YzAgMi4xNCAyLjE2IDIuMTQgMi4xNiAyLjE0aDI4LjZzMi4xNSAwIDIuMTUtMi4xNGMwLTIuMTMtMi4xNS0yLjMtMi4xNS0yLjNINTB6Ii8+PC9zdmc+DQoNCjwhLS0NCkxvZ28gb2J0YWluZWQgZnJvbQ0KaHR0cHM6Ly9lcy5tLndpa2lwZWRpYS5vcmcvd2lraS9BcmNoaXZvOkVNVGxvZ28uc3ZnDQotLT4="/>
+</svg>
+<!--https://upload.wikimedia.org/wikipedia/commons/c/c2/MadridMetro-EMT.svg-->
