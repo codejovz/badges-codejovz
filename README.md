@@ -14,45 +14,37 @@ Easily show what you know, what you have studied, the tools you use or how to ge
 
 |  Metro Madrid  |  |
 |---------------------------------------|--|
-| ![](public\MadridMetro-1.svg) |  |
-| ![](public\MadridMetro-2.svg) |  |
-| ![](public\MadridMetro-3.svg) |  |
-| ![](public\MadridMetro-4.svg) |  |
-| ![](public\MadridMetro-5.svg) |  |
-| ![](public\MadridMetro-6.svg) |  |
-| ![](public\MadridMetro-7.svg) |  |
-| ![](public\MadridMetro-8.svg) |  |
-| ![](public\MadridMetro-9.svg) |  |
-| ![](public\MadridMetro-10.svg) |  |
-| ![](public\MadridMetro-R.svg) |  |
+| ![](./public/MadridMetro-1.svg) |  |
+| ![](./public/MadridMetro-2.svg) |  |
+| ![](./public/MadridMetro-3.svg) |  |
+| ![](./public/MadridMetro-4.svg) |  |
+| ![](./public/MadridMetro-5.svg) |  |
+| ![](./public/MadridMetro-6.svg) |  |
+| ![](./public/MadridMetro-7.svg) |  |
+| ![](./public/MadridMetro-8.svg) |  |
+| ![](./public/MadridMetro-9.svg) |  |
+| ![](./public/MadridMetro-10.svg) |  |
+| ![](./public/MadridMetro-R.svg) |  |
 
 |  Cercanias Madrid  |  |
 |---------------------------------------|--|
-| ![](public\MadridCercanias-C2.svg)    |  |
-| ![](public\MadridCercanias-C3.svg)    |  |
-| ![](public\MadridCercanias-C4.svg)    |  |
-| ![](public\MadridCercanias-C4a.svg)   |  |
-| ![](public\MadridCercanias-C4b.svg)   |  |
-| ![](public\MadridCercanias-C7.svg)    |  |
-| ![](public\MadridCercanias-C8.svg)    |  |
-| ![](public\MadridCercanias-C8a.svg)   |  |
-| ![](public\MadridCercanias-C8b.svg)   |  |
-| ![](public\MadridCercanias-C10.svg)   |  |
-| ![](public\MadridCercanias-CIVIS.svg) |  |
+| ![](./public/MadridCercanias-C2.svg)    |  |
+| ![](./public/MadridCercanias-C3.svg)    |  |
+| ![](./public/MadridCercanias-C4.svg)    |  |
+| ![](./public/MadridCercanias-C4a.svg)   |  |
+| ![](./public/MadridCercanias-C4b.svg)   |  |
+| ![](./public/MadridCercanias-C7.svg)    |  |
+| ![](./public/MadridCercanias-C8.svg)    |  |
+| ![](./public/MadridCercanias-C8a.svg)   |  |
+| ![](./public/MadridCercanias-C8b.svg)   |  |
+| ![](./public/MadridCercanias-C10.svg)   |  |
+| ![](./public/MadridCercanias-CIVIS.svg) |  |
 
 |  Buses Madrid  |  |
 |---------------------------------------|--|
-| ![](public\MadridMetro-BusInterurbano_523.svg) |  |
-| ![](public\MadridMetro-EMT_10.svg) |  |
-| ![](public\MadridMetro-Urbano_1.svg) |  |
-
-
-
-
-
-
-
-
+| ![](./public/MadridMetro-BusInterurbano_523.svg) |  |
+| ![](./public/MadridMetro-EMT_10.svg) |  |
+| ![](./public/MadridMetro-Urbano_1.svg) |  |
 
 
 
@@ -61,6 +53,7 @@ Easily show what you know, what you have studied, the tools you use or how to ge
 - [gemini](https://gemini.google.com/app?hl=es-ES) for generating the logo.
 - [11zon](https://bigimage.11zon.com/es/crop-circle-image/convert-square-image-to-circle.php) for converting the logo to round.
 - [convertio.co](https://convertio.co/download/d3bb8be23c34d62b07e1f19b59665d523a7076/) for converting the logo to SVG.
+- [chatgpt.com/](https://chatgpt.com/) for generating images about svgs and markdown.
 
 
 <details>

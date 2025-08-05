@@ -16,9 +16,3 @@ export default function App() {
     </BrowserRouter>
     )
 }
-/*
-            <section class = "landing">
-            <h1>BADGES</h1>
-            <h2>All the badges, at one website</h2>
-            <p>Click on the badges to copy them!</p>
-            </section>*/ 
