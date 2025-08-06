@@ -8,6 +8,10 @@ p{font-family: Helvetica;}
 h1, h2, h3, h4, h5, h6 { text-wrap: balance; }
 img, video, svg { height: auto; max-width: 100%; }
 
+html, body, #root {
+    height: 100dvh;
+}
+
 :root {
   --bard-color-brand-text-gradient-stop-1: #C0C0C0;
   --bard-color-brand-text-gradient-stop-2: #B1B1B1;
@@ -97,6 +101,28 @@ nav > ul > li> a:active {
 
 .faq {
     flex: 1;
+}
+
+.notFound {
+    height: 100dvh;
+    display: flex;
+    flex-direction: row;
+}
+
+.notFound-message {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: var(--basecolor)
+}
+
+.notFound-center {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .faqIMG {
@@ -250,14 +276,13 @@ footer > a {
     color: var(--darkest);
 }
 
-
 #menu, #menu_icon {
     display: none;
 }
 
 @media(max-width: 587px) and ( min-width: 392px) {
 
-    .welcome {
+    .welcome, .notFound-message {
         font-size: 2.9vw;
     }
 
@@ -285,7 +310,6 @@ footer > a {
         display: none;
     }
 
-
     #menu_icon{
         position: absolute;
         display: block;
@@ -308,7 +332,7 @@ footer > a {
         margin-top: 60px;
     }
 
-    .welcome {
+    .welcome, .notFound-message {
         font-size: 4vw;
     }
 
@@ -329,7 +353,7 @@ footer > a {
         padding-bottom: 5px;
     }
 
-        #homeLi::before, #faqLi::before, #thanksLi::before, #repoLi::before{
+    #homeLi::before, #faqLi::before, #thanksLi::before, #repoLi::before{
         width: 18px;
         height: 18px;
         margin-right: 8px;

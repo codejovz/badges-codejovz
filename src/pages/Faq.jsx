@@ -1,11 +1,11 @@
 import {Sidebar} from '../components/Sidebar.jsx';
 import {Footer} from '../components/Footer.jsx';
 import {Section} from '../components/Section.jsx';
-export default function Faq() {
+export function Faq() {
     return(
-        <div class="centro">
+        <div className="centro">
             <Sidebar/>
-            <div class="faq">
+            <div className="faq">
                 <article>
                 <h1>Frequently Asqued Questions</h1>
                 <Section 
