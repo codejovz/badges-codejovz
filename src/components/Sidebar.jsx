@@ -20,6 +20,7 @@ export function Sidebar() {
     const menu = menuRef.current;
     const body = document.body;
     const specialThanks = document.querySelector('.specialThanks');
+    const notFoundMessage = document.querySelector('.notFound-message');
     const sidebar = sidebarRef.current;
     const webLogo = webLogoRef.current;
     const sidebarList = sidebarListRef.current;
@@ -40,6 +41,10 @@ export function Sidebar() {
         specialThanks.style.display = 'none';
       }
 
+      if(notFoundMessage !== null){
+        notFoundMessage.style.display = 'none';
+      }
+
       
 
       //body.style.overflow = 'hidden';
@@ -56,6 +61,10 @@ export function Sidebar() {
 
       if(specialThanks !== null){
         specialThanks.style.display = 'flex';
+      }
+
+      if(notFoundMessage !== null){
+        notFoundMessage.style.display = 'flex';
       }
       
       
