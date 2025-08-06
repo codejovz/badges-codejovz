@@ -7,44 +7,49 @@ Ready to use markdown svg badges.
 
 ## Purpose
 
-Easily show what you know, what you have studied, the tools you use or how to get to your location!
+Easily show what you know, what you have studied, the tools you use or how to get to your location 📌.
+
+
+Click the image below to see the live site!
+
+[![Landing page of badges web](./public/assets/badges-web-landing.png)](https://codejovz.vercel.app/badges/)
 
 
 ## Badges
 
 |  Metro Madrid  |  |
 |---------------------------------------|--|
-| ![](./public/MadridMetro-1.svg) |  |
-| ![](./public/MadridMetro-2.svg) |  |
-| ![](./public/MadridMetro-3.svg) |  |
-| ![](./public/MadridMetro-4.svg) |  |
-| ![](./public/MadridMetro-5.svg) |  |
-| ![](./public/MadridMetro-6.svg) |  |
-| ![](./public/MadridMetro-7.svg) |  |
-| ![](./public/MadridMetro-8.svg) |  |
-| ![](./public/MadridMetro-9.svg) |  |
-| ![](./public/MadridMetro-10.svg) |  |
-| ![](./public/MadridMetro-R.svg) |  |
+| ![Line 1 of the Madrid Metro](./public/MadridMetro-1.svg) |  |
+| ![Line 2 of the Madrid Metro](./public/MadridMetro-2.svg) |  |
+| ![Line 3 of the Madrid Metro](./public/MadridMetro-3.svg) |  |
+| ![Line 4 of the Madrid Metro](./public/MadridMetro-4.svg) |  |
+| ![Line 5 of the Madrid Metro](./public/MadridMetro-5.svg) |  |
+| ![Line 6 of the Madrid Metro](./public/MadridMetro-6.svg) |  |
+| ![Line 7 of the Madrid Metro](./public/MadridMetro-7.svg) |  |
+| ![Line 8 of the Madrid Metro](./public/MadridMetro-8.svg) |  |
+| ![Line 9 of the Madrid Metro](./public/MadridMetro-9.svg) |  |
+| ![Line 10 of the Madrid Metro](./public/MadridMetro-10.svg) |  |
+| ![Line R of the Madrid Metro](./public/MadridMetro-R.svg) |  |
 
 |  Cercanias Madrid  |  |
 |---------------------------------------|--|
-| ![](./public/MadridCercanias-C2.svg)    |  |
-| ![](./public/MadridCercanias-C3.svg)    |  |
-| ![](./public/MadridCercanias-C4.svg)    |  |
-| ![](./public/MadridCercanias-C4a.svg)   |  |
-| ![](./public/MadridCercanias-C4b.svg)   |  |
-| ![](./public/MadridCercanias-C7.svg)    |  |
-| ![](./public/MadridCercanias-C8.svg)    |  |
-| ![](./public/MadridCercanias-C8a.svg)   |  |
-| ![](./public/MadridCercanias-C8b.svg)   |  |
-| ![](./public/MadridCercanias-C10.svg)   |  |
-| ![](./public/MadridCercanias-CIVIS.svg) |  |
+| ![Line 2 of the Madrid Cercanias](./public/MadridCercanias-C2.svg)    |  |
+| ![Line 3 of the Madrid Cercanias](./public/MadridCercanias-C3.svg)    |  |
+| ![Line 4 of the Madrid Cercanias](./public/MadridCercanias-C4.svg)    |  |
+| ![Line 4a of the Madrid Cercanias](./public/MadridCercanias-C4a.svg)   |  |
+| ![Line 4b of the Madrid Cercanias](./public/MadridCercanias-C4b.svg)   |  |
+| ![Line 7 of the Madrid Cercanias](./public/MadridCercanias-C7.svg)    |  |
+| ![Line 8 of the Madrid Cercanias](./public/MadridCercanias-C8.svg)    |  |
+| ![Line 8a of the Madrid Cercanias](./public/MadridCercanias-C8a.svg)   |  |
+| ![Line 8b of the Madrid Cercanias](./public/MadridCercanias-C8b.svg)   |  |
+| ![Line 10 of the Madrid Cercanias](./public/MadridCercanias-C10.svg)   |  |
+| ![Line CIVIS of the Madrid Cercanias](./public/MadridCercanias-CIVIS.svg) |  |
 
 |  Buses Madrid  |  |
 |---------------------------------------|--|
-| ![](./public/MadridMetro-BusInterurbano_523.svg) |  |
-| ![](./public/MadridMetro-EMT_10.svg) |  |
-| ![](./public/MadridMetro-Urbano_1.svg) |  |
+| ![Intercity bus line 523 of Madrid](./public/MadridMetro-BusInterurbano_523.svg) |  |
+| ![EMT bus line 10 of Madrid](./public/MadridMetro-EMT_10.svg) |  |
+| ![Urban bus line 1 of Madrid](./public/MadridMetro-Urbano_1.svg) |  |
 
 
 
@@ -54,6 +59,14 @@ Easily show what you know, what you have studied, the tools you use or how to ge
 - [11zon](https://bigimage.11zon.com/es/crop-circle-image/convert-square-image-to-circle.php) for converting the logo to round.
 - [convertio.co](https://convertio.co/download/d3bb8be23c34d62b07e1f19b59665d523a7076/) for converting the logo to SVG.
 - [chatgpt.com/](https://chatgpt.com/) for generating images about svgs and markdown.
+- [wikipedia.org](https://es.m.wikipedia.org/wiki/Archivo) for publishing logos. Contributors:
+    - EMT Madrid
+    - Javitomad
+    - Patrick1977
+    - Teoamez
+    - That Argentinian on da' corner
+
+
 
 
 <details>

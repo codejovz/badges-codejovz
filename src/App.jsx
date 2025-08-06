@@ -8,7 +8,7 @@ import './App.css';
 
 export default function App() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="/badges">
         <Routes>
           <Route path="/" element={<Centro />} />
           <Route path="/Faq" element={<Faq/>} />

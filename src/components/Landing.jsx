@@ -5,8 +5,8 @@ export function Landing() {
             <div className="landing">
                 <section className = "welcome">
                     <h1>BADGES</h1>
-                    <h2>All the badges, at one website</h2>
-                    <p>Click on the badges to copy them!</p>
+                    <h2>More badges, at one website</h2>
+                    <p>Use them wherever you want!</p>
                 </section>
                 <BadgeGallery/>
                 <Footer/>

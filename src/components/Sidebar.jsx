@@ -88,13 +88,13 @@ export function Sidebar() {
         <line ref={line3Ref} x1="20" y1="70" x2="80" y2="70" strokeWidth="8" strokeLinecap="round" stroke="black" />
       </svg>
 
-      <img ref={webLogoRef} src="/assets/githubBadgeslogoIco.svg" id="webLogo" alt="logo" />
+      <img ref={webLogoRef} src="/badges/assets/githubBadgeslogoIco.svg" id="webLogo" alt="logo" />
 
       <ul ref={sidebarListRef} className="sidebarList closed">
         <li><NavLink id="homeLi" to="/">Home</NavLink></li>
         <li><NavLink id="faqLi" to="/Faq">FAQ</NavLink></li>
         <li><NavLink id="thanksLi" to="/SpecialThanks">Thanks to</NavLink></li>
-        <li><a id="repoLi" href="https://github.com/jotaaloud/badges" target="_blank" rel="noopener noreferrer">Github repo</a></li>
+        <li><a id="repoLi" href="https://github.com/codejovz/badges" target="_blank" rel="noopener noreferrer">Github repo</a></li>
       </ul>
 
       <div id="menu" ref={menuRef} style={{ display: 'none' }}>

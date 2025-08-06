@@ -1,6 +1,3 @@
-
-import React, { useEffect, useState } from 'react';
-
 export function BadgeGallery() {
 
     const imageList = [
@@ -41,7 +38,7 @@ export function BadgeGallery() {
   return (
     <section class="badge-gallery">
       {imageList.map((imageName, index) => {
-        const src = `/${imageName}`;
+        const src = `/badges/${imageName}`;
         return <img key={index} src={src} alt={`Badge ${index + 1}`} />;
       })}
     </section>

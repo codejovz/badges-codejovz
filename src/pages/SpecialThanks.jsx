@@ -11,6 +11,13 @@ export function SpecialThanks() {
                     <li><a href="https://bigimage.11zon.com/es/crop-circle-image/convert-square-image-to-circle.php">11zon</a> for converting the logo to round.</li>
                     <li><a href="https://convertio.co/">convertio.co</a> for converting the logo to SVG.</li>
                     <li><a href="https://chatgpt.com/">chatgpt</a> for generating images about svgs and markdown.</li>
+                    <li><a href="https://es.m.wikipedia.org/wiki/Archivo">wikipedia.org</a> for publishing logos. Contributors from wiki:</li>
+                    <ul>
+                    <li>EMT Madrid</li>
+                    <li>Javitomad</li>
+                    <li>Patrick1977</li>
+                    <li>Teoamez</li>
+                    <li>That Argentinian on da' corner</li></ul>
                 </ul>
                 <Footer/>
             </div>

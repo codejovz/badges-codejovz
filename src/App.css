@@ -225,14 +225,20 @@ article > section > p {
     margin-bottom: 20px;
 }
 
-.specialThanks > ul> li, .specialThanks > ul> li > a {
+.specialThanks > ul> li, .specialThanks > ul> li > a, .specialThanks > ul> ul> li  {
     font-size: 14px;
     color: var(--basecolor);
 }
 
-.specialThanks > ul> li {
+.specialThanks > ul> li, .specialThanks > ul> ul> li {
     margin-bottom: 10px;
 }
+
+.specialThanks > ul> ul> li {
+    margin-left: 12px;
+}
+
+
 
 #homeLi::before, #faqLi::before, #thanksLi::before, #repoLi::before{
     content: "";
