@@ -94,7 +94,7 @@ export function Sidebar() {
         <li><NavLink id="homeLi" to="/">Home</NavLink></li>
         <li><NavLink id="faqLi" to="/Faq">FAQ</NavLink></li>
         <li><NavLink id="thanksLi" to="/SpecialThanks">Thanks to</NavLink></li>
-        <li><a id="repoLi" href="https://github.com/codejovz/badges" target="_blank" rel="noopener noreferrer">Github repo</a></li>
+        <li><a id="repoLi" href="https://github.com/codejovz/badges-codejovz/" target="_blank" rel="noopener noreferrer">Github repo</a></li>
       </ul>
 
       <div id="menu" ref={menuRef} style={{ display: 'none' }}>
