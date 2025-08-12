@@ -33,10 +33,10 @@ Click the image below to see the live site!
 
 | Metro Ligero Madrid |  |
 |--|--|
-| ![Line 1 of the Metro Ligero Madrid](public\Madrid_Logo_Metro_Ligero_ML1.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML1.svg)``` |
-| ![Line 2 of the Metro Ligero Madrid](public\Madrid_Logo_Metro_Ligero_ML2.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML2.svg)``` |
-| ![Line 3 of the Metro Ligero Madrid](public\Madrid_Logo_Metro_Ligero_ML3.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML3.svg)``` |
-| ![Line 4 of the Metro Ligero Madrid](public\Madrid_Logo_Metro_Ligero_ML4.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML4.svg)``` |
+| ![Line 1 of the Metro Ligero Madrid](public/Madrid_Logo_Metro_Ligero_ML1.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML1.svg)``` |
+| ![Line 2 of the Metro Ligero Madrid](public/Madrid_Logo_Metro_Ligero_ML2.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML2.svg)``` |
+| ![Line 3 of the Metro Ligero Madrid](public/Madrid_Logo_Metro_Ligero_ML3.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML3.svg)``` |
+| ![Line 4 of the Metro Ligero Madrid](public/Madrid_Logo_Metro_Ligero_ML4.svg) | ```![](https://badges-codejovz.vercel.app/Madrid_Logo_Metro_Ligero_ML4.svg)``` |
 
 |  Cercanias Madrid  |  |
 |---------------------------------------|--|
