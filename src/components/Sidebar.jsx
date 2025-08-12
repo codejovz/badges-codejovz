@@ -88,7 +88,7 @@ export function Sidebar() {
         <line ref={line3Ref} x1="20" y1="70" x2="80" y2="70" strokeWidth="8" strokeLinecap="round" stroke="black" />
       </svg>
 
-      <img ref={webLogoRef} src="/badges/assets/githubBadgeslogoIco.svg" id="webLogo" alt="logo" />
+      <img ref={webLogoRef} src="/assets/githubBadgeslogoIco.svg" id="webLogo" alt="logo" />
 
       <ul ref={sidebarListRef} className="sidebarList closed">
         <li><NavLink id="homeLi" to="/">Home</NavLink></li>

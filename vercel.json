@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/badges(/.*)?", "destination": "/badges$1" }
-  ]
-}

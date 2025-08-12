@@ -38,7 +38,7 @@ export function BadgeGallery() {
   return (
     <section class="badge-gallery">
       {imageList.map((imageName, index) => {
-        const src = `/badges/${imageName}`;
+        const src = `/${imageName}`;
         return <img key={index} src={src} alt={`Badge ${index + 1}`} />;
       })}
     </section>

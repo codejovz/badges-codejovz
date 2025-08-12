@@ -2,7 +2,7 @@
   "name": "badges",
   "private": true,
   "version": "1.0.0",
-  "homepage": "/badges",
+  "homepage": "/",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
