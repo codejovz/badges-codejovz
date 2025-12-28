@@ -1,6 +1,8 @@
 export function BadgeGallery() {
 
     const imageList = [
+        'antigravity-logo.svg',
+        'OpenAI-Codex.svg',
         'base.svg',
         'bolt.svg',
         'cabify.svg',

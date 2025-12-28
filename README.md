@@ -15,7 +15,15 @@ Click the image below to see the live site!
 [![Landing page of badges web](./public/assets/badges-web-landing.png)](https://badges-codejovz.vercel.app/)
 
 
+## Contribution
+This project has a separate contibution file. Please adhere to the steps listed at the [contibuting file](./CONTRIBUTING.md).
+
 ## Badges + Link to use
+
+|  AI / IDEs |  |
+|-----------|--|
+| ![](./public/antigravity-logo.svg) | ```![](https://badges-codejovz.vercel.app/antigravity-logo.svg``` |
+| ![](./public/OpenAI-Codex.svg) | ```![](https://badges-codejovz.vercel.app/OpenAI-Codex.svg``` |
 
 |  Metro Madrid  |  |
 |---------------------------------------|--|
